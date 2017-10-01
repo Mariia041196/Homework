@@ -1,0 +1,98 @@
+body {
+	width: 100%; 
+	border-spacing: 0; 
+    background: pink;
+	font-family: Monotype Corsiva cursive;
+}
+h1{
+	text-align: center;
+	color: white;
+	font-style:italic;
+	
+}
+header{
+	font-family: Monotype Corsiva cursive;
+	font-size: 50px;
+	height: 100px;
+	text-align: center;
+	background: 89DEA6;
+	font-style:italic;
+	vertical-align: top;
+	text-shadow:#305C3E 1px 4px 4px;
+	border-bottom: 5px ridge #4B9C5A;
+	
+}
+
+img {
+	height: 130px;
+	top: 30px;
+	float: center;	
+
+}
+
+.con {
+	height: 190px;
+	text-align: left;
+	font-style:normal;
+	background: #E6CCD2;
+	margin: 20px;
+	border: 5px ridge #631C4E;
+}
+.tab {
+	border-bottom: 3px groove #631C4E;
+}
+.image{
+	height: 50px;
+	top: 30px;
+	float: center;
+	margin: 0;
+    text-align: center;
+}
+.round {
+	border-radius: 100px; 
+    border: 3px ridge #631C4E; 
+    box-shadow: 0 0 7px #666;
+	height: 130px;
+	margin-left: 300px;
+	float: right;	
+}
+
+.main {
+	height: 190px;
+	text-align: center;
+	font-style:italic;
+	background: #E6B2BE;
+	margin: 20px;
+	border: 5px ridge #631C4E;
+	position: relative;
+
+	
+}
+* {
+	font-family: Tahoma;
+}
+
+a {
+	color:  #0074A2;
+}
+a:hover {
+	color:#003300;
+}
+
+.container {
+	width: 1000px; 
+    padding: 1px;
+    margin: auto;
+	background: white;
+	border: 3px ridge 631C4E; 
+}
+header, .footer {
+	margin: 20px;
+	padding: 10px;
+}
+footer {
+	text-align: center;
+}
+
+
+ 
